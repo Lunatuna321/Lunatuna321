@@ -18,10 +18,8 @@ Here are some ideas to get you started:
 Statistics (Data Science) student at UW Seattle.
 
 ## Interests
-- Data Analysis
-- Visualization
-- Applied Machine Learning
-- Music & Recommendation Systems
+- Data Analysis | Visualization | Applied Machine Learning
+- Music & Piano
 
 ## Tools
 Python • pandas • SQL • R • scikit-learn • seaborn

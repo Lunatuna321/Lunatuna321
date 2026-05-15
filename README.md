@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Lunatuna321/Lunatuna321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm Luna 👋
+
+Statistics (Data Science) student at UW Seattle.
+
+## Interests
+- Data Analysis
+- Visualization
+- Applied Machine Learning
+- Music & Recommendation Systems
+
+## Tools
+Python • pandas • SQL • R • scikit-learn • seaborn
+
+## Current Projects
+- Spotify Streaming Trend Analysis
+- OCT Imaging Data Research
+
+## Connect With Me
+📫 lunatuna070321@gmail.com
